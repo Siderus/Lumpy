@@ -1,4 +1,5 @@
 ![Logo](docs/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSiderus%2FLumpy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSiderus%2FLumpy?ref=badge_shield)
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![codebeat badge](https://codebeat.co/badges/55b6d66b-3b3f-41b1-a26f-9a79209e7feb)](https://codebeat.co/projects/github-com-koalalorenzo-lumpy-master) [![Build Status](https://travis-ci.org/Siderus/Lumpy.svg?branch=master)](https://travis-ci.org/Siderus/Lumpy)
@@ -48,3 +49,7 @@ You can contribute by checking what should be done in the
 
 If you need to report something, please send an email to [hello@siderus.io](mailto:hello@siderus.io) or
 contact us directly in the [chatroom on Matrix](https://riot.im/app/#/room/#lumpy:matrix.org)!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSiderus%2FLumpy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSiderus%2FLumpy?ref=badge_large)
