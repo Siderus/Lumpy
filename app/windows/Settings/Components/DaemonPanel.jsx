@@ -62,7 +62,7 @@ class DaemonPanel extends React.Component {
             type="text"
             defaultValue={data.multiAddrAPI || getMultiAddrIPFSDaemon()}
             onChange={this._handleChangeMultiAddrIPFSDaemon}
-            placeholder="Something lumpy like /ip4/127.0.0.1/tcp/5001"
+            placeholder="Something Orion like /ip4/127.0.0.1/tcp/5001"
           />
 
           <Input

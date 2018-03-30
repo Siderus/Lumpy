@@ -340,7 +340,7 @@ describe('api.js', () => {
   describe('queryGateways', () => {
     it('should query the gateways', () => {
       // arrange
-      const USER_AGENT = `Lumpy/${pjson.version}`
+      const USER_AGENT = `Orion/${pjson.version}`
       // act
       api.queryGateways('fake-hash')
       // assert

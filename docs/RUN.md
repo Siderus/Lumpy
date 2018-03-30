@@ -1,8 +1,8 @@
-# How to run Siderus Lumpy
-This guide explains how to run Lumpy as an electron app directly from source code.
+# How to run Siderus Orion
+This guide explains how to run Orion as an electron app directly from source code.
 
 ## Dependencies
-Lumpy apps requires the following dependencies installed:
+Orion apps requires the following dependencies installed:
 
 * Git
 * IPFS ([Install guide here](https://ipfs.io/docs/install/))
@@ -27,12 +27,12 @@ First of all you need to clone the source code and install
 the modules. Run the following commands to do so:
 
 ```bash
-git clone https://github.com/Siderus/Lumpy.git
-cd ../Lumpy
+git clone https://github.com/Siderus/Orion.git
+cd ../Orion
 yarn
 ```
 
-## Run Lumpy
+## Run Orion
 After the process is completed, you can run the electron app
 by executing:
 

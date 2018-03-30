@@ -1,11 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <defs>
-    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="250" y1="16.423" x2="250" y2="483.577" gradientTransform="matrix(0.723899, 0.723899, -0.723899, 0.723899, 250.421079, -118.513487)">
-      <stop offset="0" style="stop-color: rgb(215, 154, 255);"/>
-      <stop offset="1" style="stop-color: rgb(90, 64, 103);"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:bx="https://boxy-svg.com"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/Users/koalalorenzo/Repositories/Siderus/Lumpy/docs/logo-big.png"
+   inkscape:export-xdpi="98.304001"
+   inkscape:export-ydpi="98.304001">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1335"
+     inkscape:window-height="662"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.6675088"
+     inkscape:cx="55.86655"
+     inkscape:cy="238.83034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="gradient-3"
+       gradientUnits="userSpaceOnUse"
+       x1="250"
+       y1="16.423"
+       x2="250"
+       y2="483.577"
+       gradientTransform="matrix(0.723899, 0.723899, -0.723899, 0.723899, 250.421079, -118.513487)">
+      <stop
+         offset="0"
+         style="stop-color:#5599ff;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="1"
+         style="stop-color:#550022;stop-opacity:1"
+         id="stop4" />
     </linearGradient>
   </defs>
-  <ellipse cx="250" cy="250" rx="233.577" ry="233.577" style="stroke-width: 12; fill: url(#gradient-3); stroke: rgb(0, 0, 0);"/>
-  <path d="M 311.862 68.356 L 337.554 141.667 L 414.253 143.79 L 353.433 191.221 L 375.143 265.845 L 311.862 221.848 L 248.581 265.845 L 270.291 191.221 L 209.471 143.79 L 286.17 141.667 Z" transform="matrix(0.853812, -0.520581, 0.445899, 0.899347, -21.859026, 188.266711)" style="fill: rgb(255, 220, 91); stroke-width: 5; stroke: rgb(227, 153, 134);" bx:shape="star 311.862 177.525 107.66 109.169 0.406 5 1@e65623de"/>
+  <ellipse
+     cx="250"
+     cy="250"
+     rx="233.577"
+     ry="233.577"
+     style="stroke-width: 12; fill: url(#gradient-3); stroke: rgb(0, 0, 0);"
+     id="ellipse9" />
+  <path
+     d="m 279.15859,83.173306 45.36903,60.727714 71.72373,-26.73006 -42.43561,68.33633 42.06375,63.48148 -71.59584,-18.49344 -45.7265,65.96343 -1.81363,-79.76715 -70.32406,-22.71246 70.47545,-30.80538 z"
+     style="fill:#ffdc5b;stroke:#e39986;stroke-width:5"
+     bx:shape="star 311.862 177.525 107.66 109.169 0.406 5 1@e65623de"
+     id="path11"
+     inkscape:connector-curvature="0" />
 </svg>

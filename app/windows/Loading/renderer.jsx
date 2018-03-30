@@ -5,7 +5,7 @@ import styled from 'styled-components'
 
 import 'react-photonkit'
 import ProgressBar from '../../components/ProgressBar'
-import LumpyLogo from '../../../docs/logo.svg'
+import OrionLogo from '../../../docs/logo.svg'
 import SiderusLogo from '../../../docs/siderus-logo.svg'
 
 const Window = styled.div`
@@ -15,7 +15,7 @@ const Window = styled.div`
   align-items: center;
   padding: 24px;
 `
-const Lumpy = styled.div`
+const Orion = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,10 +60,10 @@ class LoadingWindow extends React.Component {
   render () {
     return (
       <Window>
-        <Lumpy>
-          <LumpyLogo width='150px' />
-          Siderus Lumpy
-        </Lumpy>
+        <Orion>
+          <OrionLogo width='150px' />
+          Siderus Orion
+        </Orion>
 
         <Progress>
           {this.state.text}

@@ -1,7 +1,7 @@
 {
-  "name": "lumpy",
+  "name": "Orion",
   "version": "0.1.1",
-  "description": "Lumpy is an easy-to-use and KISS IPFS desktop interface",
+  "description": "Orion is an easy-to-use and KISS IPFS desktop interface",
   "main": "app/index.js",
   "scripts": {
     "test": "jest",
@@ -11,7 +11,7 @@
     "package": "yarn build-icons; electron-forge package",
     "make": "electron-forge make"
   },
-  "repository": "https://github.com/siderus/Lumpy",
+  "repository": "https://github.com/siderus/Orion",
   "keywords": [
     "electron",
     "ipfs",
@@ -88,7 +88,7 @@
         "icon": "docs/logo.png"
       },
       "electronWinstallerConfig": {
-        "name": "lumpy"
+        "name": "Orion"
       },
       "electronInstallerDebian": {},
       "electronInstallerRedhat": {},
@@ -98,7 +98,7 @@
       },
       "windowsStoreConfig": {
         "packageName": "",
-        "name": "lumpy"
+        "name": "Orion"
       }
     }
   },

@@ -15,7 +15,7 @@ export const ERROR_IPFS_UNAVAILABLE = 'IPFS NOT AVAILABLE'
 export const ERROR_IPFS_TIMEOUT = 'TIMEOUT'
 let IPFS_CLIENT = null
 
-const USER_AGENT = `Lumpy/${pjson.version}`
+const USER_AGENT = `Orion/${pjson.version}`
 
 export function setClientInstance (client) {
   IPFS_CLIENT = client

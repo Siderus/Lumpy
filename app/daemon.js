@@ -87,7 +87,7 @@ export function addBootstrapAddr (strMultiddr) {
 export function getSiderusPeers () {
   return request({
     uri: 'https://meta.siderus.io/ipfs/peers.txt',
-    headers: { 'User-Agent': `Lumpy/${pjson.version}` }
+    headers: { 'User-Agent': `Orion/${pjson.version}` }
   }).then(res => {
     let peers
     // split the file by endlines

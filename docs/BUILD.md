@@ -1,8 +1,8 @@
-# How to build Siderus Lumpy
-This guide will help building Siderus Lumpy standalone app.
+# How to build Siderus Orion
+This guide will help building Siderus Orion standalone app.
 
 ## Dependencies
-Lumpy apps requires the following dependencies installed:
+Orion apps requires the following dependencies installed:
 
 * Git
 * IPFS ([Install guide here](https://ipfs.io/docs/install/))
@@ -21,8 +21,8 @@ First of all you need to clone the source code and install
 the modules. Run the following commands to do so:
 
 ```bash
-git clone https://github.com/Siderus/Lumpy.git
-cd ../Lumpy
+git clone https://github.com/Siderus/Orion.git
+cd ../Orion
 yarn
 ```
 
