@@ -149,8 +149,7 @@ export function proptAndRemoveObjects (elements) {
     detail: `This includes: \n\n${elementsDetails}\n\nOnce done, you can't restore the files.`,
     type: 'warning',
     buttons: ['Cancel', 'Ok'],
-    cancelId: 0,
-    defaultId: 1
+    cancelId: 0
   }
 
   const btnClicked = dialog.showMessageBox(app.mainWindow, opts)
